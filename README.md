@@ -30,7 +30,7 @@ Instead of chasing bigger models, we focus on squeezing every drop of capability
 Modern AI assumes unlimited resources.  
 GonzoLlama asks a better question:
 
-> **"How much capability can we actually get from the hardware and models we already have?"**
+ **"How much capability can we actually get from the hardware and models we already have?"**
 
 ---
 
