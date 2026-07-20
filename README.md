@@ -125,8 +125,6 @@ Current focus:
 
 <div align="center">
 
-## 🌍 Why GonzoLlama Exists
-
 **Real Hardware**  **Efficient Models**  **Fast Interaction**  **Local Control**
 
 ---
