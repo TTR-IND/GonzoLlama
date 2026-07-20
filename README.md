@@ -117,7 +117,7 @@ Includes: Llama, Qwen, Mistral, Gemma, Phi, DeepSeek, and any custom GGUF.
 Current focus:
 - Deep llama.cpp integration
 - GGUF compatibility & performance
-- Streaming architecture
+- Intelligent self-augmentation
 - Advanced memory management
 - Hardware scheduling
 
