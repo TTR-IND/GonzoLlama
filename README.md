@@ -135,6 +135,6 @@ Current focus:
 
 Crafted with discipline, curiosity, and unreasonable amounts of energy drink.
 
-> **"Make the machine do more. Waste nothing."** <
+ **"Make the machine do more. Waste nothing."**
 
 </div>
